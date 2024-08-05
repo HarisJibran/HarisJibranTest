@@ -1,5 +1,5 @@
 {
-  "version": "2.3.5",
+  "version": "2.3.4",
   "flags": {},
   "shapes": [
     {
@@ -165,33 +165,6 @@
       "attributes": {}
     },
     {
-      "label": "Achar Gosht 100GM (L)",
-      "points": [
-        [
-          476.91001892089844,
-          298.4804153442383
-        ],
-        [
-          560.2627563476562,
-          298.4804153442383
-        ],
-        [
-          560.2627563476562,
-          405.23571014404297
-        ],
-        [
-          476.91001892089844,
-          405.23571014404297
-        ]
-      ],
-      "group_id": null,
-      "description": null,
-      "difficult": false,
-      "shape_type": "rectangle",
-      "flags": {},
-      "attributes": {}
-    },
-    {
       "label": "TIKKA MASALA 40GX144 (H)",
       "points": [
         [
@@ -209,60 +182,6 @@
         [
           329.0406036376953,
           916.3845825195312
-        ]
-      ],
-      "group_id": null,
-      "description": null,
-      "difficult": false,
-      "shape_type": "rectangle",
-      "flags": {},
-      "attributes": {}
-    },
-    {
-      "label": "Quorma 100GM (L)",
-      "points": [
-        [
-          383.72440338134766,
-          266.84314727783203
-        ],
-        [
-          475.25012969970703,
-          266.84314727783203
-        ],
-        [
-          475.25012969970703,
-          381.00772857666016
-        ],
-        [
-          383.72440338134766,
-          381.00772857666016
-        ]
-      ],
-      "group_id": null,
-      "description": null,
-      "difficult": false,
-      "shape_type": "rectangle",
-      "flags": {},
-      "attributes": {}
-    },
-    {
-      "label": "BIRYANI 140G X 72 (L)",
-      "points": [
-        [
-          638.698616027832,
-          355.2135467529297
-        ],
-        [
-          708.2490539550781,
-          355.2135467529297
-        ],
-        [
-          708.2490539550781,
-          451.86187744140625
-        ],
-        [
-          638.698616027832,
-          451.86187744140625
         ]
       ],
       "group_id": null,
@@ -327,33 +246,6 @@
       "attributes": {}
     },
     {
-      "label": "Quorma 100GM (L)",
-      "points": [
-        [
-          831.4756774902344,
-          421.1945343017578
-        ],
-        [
-          881.4616394042969,
-          421.1945343017578
-        ],
-        [
-          881.4616394042969,
-          501.36077880859375
-        ],
-        [
-          831.4756774902344,
-          501.36077880859375
-        ]
-      ],
-      "group_id": null,
-      "description": null,
-      "difficult": false,
-      "shape_type": "rectangle",
-      "flags": {},
-      "attributes": {}
-    },
-    {
       "label": "BIRYANI 70G X 144 (L)",
       "points": [
         [
@@ -408,33 +300,6 @@
       "attributes": {}
     },
     {
-      "label": "BOMBAY BIRYANI 140G X 72 (KK)",
-      "points": [
-        [
-          561.9485473632812,
-          328.0128860473633
-        ],
-        [
-          637.2928619384766,
-          328.0128860473633
-        ],
-        [
-          637.2928619384766,
-          430.32825469970703
-        ],
-        [
-          561.9485473632812,
-          430.32825469970703
-        ]
-      ],
-      "group_id": null,
-      "description": null,
-      "difficult": false,
-      "shape_type": "rectangle",
-      "flags": {},
-      "attributes": {}
-    },
-    {
       "label": "BIRYANI 70G X 144 (L)",
       "points": [
         [
@@ -479,60 +344,6 @@
         [
           856.572265625,
           909.7854614257812
-        ]
-      ],
-      "group_id": null,
-      "description": null,
-      "difficult": false,
-      "shape_type": "rectangle",
-      "flags": {},
-      "attributes": {}
-    },
-    {
-      "label": "YAKHNI PULAO 140GX72(H)",
-      "points": [
-        [
-          709.6864318847656,
-          378.4066390991211
-        ],
-        [
-          774.5588684082031,
-          378.4066390991211
-        ],
-        [
-          774.5588684082031,
-          470.6937789916992
-        ],
-        [
-          709.6864318847656,
-          470.6937789916992
-        ]
-      ],
-      "group_id": null,
-      "description": null,
-      "difficult": false,
-      "shape_type": "rectangle",
-      "flags": {},
-      "attributes": {}
-    },
-    {
-      "label": "Karahi Gosht 100GM (L)",
-      "points": [
-        [
-          773.7942504882812,
-          403.4882354736328
-        ],
-        [
-          831.6171264648438,
-          403.4882354736328
-        ],
-        [
-          831.6171264648438,
-          489.14939880371094
-        ],
-        [
-          773.7942504882812,
-          489.14939880371094
         ]
       ],
       "group_id": null,
@@ -762,5 +573,6 @@
   "imagePath": "questionImage_1822_92787_7_-1_9_-1.jpg",
   "imageData": null,
   "imageHeight": 1600,
-  "imageWidth": 1600
+  "imageWidth": 1600,
+  "text": ""
 }
