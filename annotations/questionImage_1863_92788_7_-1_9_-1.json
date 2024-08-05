@@ -1,0 +1,1306 @@
+{
+  "version": "2.3.5",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Karahi Gosht 50GM (L)",
+      "points": [
+        [
+          616.3995361328125,
+          645.0322723388672
+        ],
+        [
+          683.1561279296875,
+          645.0322723388672
+        ],
+        [
+          683.1561279296875,
+          751.0012054443359
+        ],
+        [
+          616.3995361328125,
+          751.0012054443359
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "BOMBAY BIRYANI 70G X 144 (KK)",
+      "points": [
+        [
+          682.7829742431641,
+          653.2725524902344
+        ],
+        [
+          743.4105682373047,
+          653.2725524902344
+        ],
+        [
+          743.4105682373047,
+          753.4364318847656
+        ],
+        [
+          682.7829742431641,
+          753.4364318847656
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "BOMBAY BIRYANI 140G X 72 (KK)",
+      "points": [
+        [
+          838.3856201171875,
+          394.6660614013672
+        ],
+        [
+          901.66748046875,
+          394.6660614013672
+        ],
+        [
+          901.66748046875,
+          519.8685455322266
+        ],
+        [
+          838.3856201171875,
+          519.8685455322266
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "BOMBAY BIRYANI 70G X 144 (KK)",
+      "points": [
+        [
+          742.5897979736328,
+          659.449462890625
+        ],
+        [
+          798.2140350341797,
+          659.449462890625
+        ],
+        [
+          798.2140350341797,
+          754.6371459960938
+        ],
+        [
+          742.5897979736328,
+          754.6371459960938
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "TIKKA MASALA 80GX72 (H)",
+      "points": [
+        [
+          387.64148712158203,
+          911.9143676757812
+        ],
+        [
+          498.2284927368164,
+          911.9143676757812
+        ],
+        [
+          498.2284927368164,
+          1063.5897827148438
+        ],
+        [
+          387.64148712158203,
+          1063.5897827148438
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "BIRYANI 70G X 144 (L)",
+      "points": [
+        [
+          848.9089965820312,
+          672.7957153320312
+        ],
+        [
+          894.6125793457031,
+          672.7957153320312
+        ],
+        [
+          894.6125793457031,
+          758.970947265625
+        ],
+        [
+          848.9089965820312,
+          758.970947265625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "SEEKH KABAB 46GX72 (H)",
+      "points": [
+        [
+          645.8377075195312,
+          922.2358703613281
+        ],
+        [
+          711.4373779296875,
+          922.2358703613281
+        ],
+        [
+          711.4373779296875,
+          1023.5992431640625
+        ],
+        [
+          645.8377075195312,
+          1023.5992431640625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Karahi Gosht 100GM (L)",
+      "points": [
+        [
+          516.6394805908203,
+          284.45377349853516
+        ],
+        [
+          611.9969940185547,
+          284.45377349853516
+        ],
+        [
+          611.9969940185547,
+          441.5602493286133
+        ],
+        [
+          516.6394805908203,
+          441.5602493286133
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Karahi Gosht 50GM (L)",
+      "points": [
+        [
+          543.0776596069336,
+          635.8070373535156
+        ],
+        [
+          616.9372940063477,
+          635.8070373535156
+        ],
+        [
+          616.9372940063477,
+          742.9289245605469
+        ],
+        [
+          543.0776596069336,
+          742.9289245605469
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Achar Gosht 100GM (L)",
+      "points": [
+        [
+          901.6973876953125,
+          413.67523193359375
+        ],
+        [
+          959.0252685546875,
+          413.67523193359375
+        ],
+        [
+          959.0252685546875,
+          533.9299011230469
+        ],
+        [
+          901.6973876953125,
+          533.9299011230469
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Quorma 50GM (L)",
+      "points": [
+        [
+          374.1643524169922,
+          615.2468872070312
+        ],
+        [
+          464.3932342529297,
+          615.2468872070312
+        ],
+        [
+          464.3932342529297,
+          736.9752502441406
+        ],
+        [
+          374.1643524169922,
+          736.9752502441406
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "TIKKA MASALA 40GX144 (H)",
+      "points": [
+        [
+          498.9235305786133,
+          934.3801879882812
+        ],
+        [
+          574.2428970336914,
+          934.3801879882812
+        ],
+        [
+          574.2428970336914,
+          1045.9713745117188
+        ],
+        [
+          498.9235305786133,
+          1045.9713745117188
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "BOMBAY BIRYANI 140G X 72 (KK)",
+      "points": [
+        [
+          694.3962097167969,
+          345.1515197753906
+        ],
+        [
+          772.0399475097656,
+          345.1515197753906
+        ],
+        [
+          772.0399475097656,
+          486.8634033203125
+        ],
+        [
+          694.3962097167969,
+          486.8634033203125
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "BOMBAY BIRYANI 140G X 72 (KK)",
+      "points": [
+        [
+          611.2117767333984,
+          316.9987106323242
+        ],
+        [
+          693.7529754638672,
+          316.9987106323242
+        ],
+        [
+          693.7529754638672,
+          467.5197982788086
+        ],
+        [
+          611.2117767333984,
+          467.5197982788086
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Quorma 100GM (L)",
+      "points": [
+        [
+          405.2638244628906,
+          251.74253463745117
+        ],
+        [
+          518.0464172363281,
+          251.74253463745117
+        ],
+        [
+          518.0464172363281,
+          418.9320373535156
+        ],
+        [
+          405.2638244628906,
+          418.9320373535156
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "BIRYANI 70G X 144 (L)",
+      "points": [
+        [
+          797.9499816894531,
+          666.6688537597656
+        ],
+        [
+          848.8603210449219,
+          666.6688537597656
+        ],
+        [
+          848.8603210449219,
+          758.5093688964844
+        ],
+        [
+          797.9499816894531,
+          758.5093688964844
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "SHAMI KABAB 45GX72 (H)",
+      "points": [
+        [
+          835.3697204589844,
+          908.7570190429688
+        ],
+        [
+          885.8253479003906,
+          908.7570190429688
+        ],
+        [
+          885.8253479003906,
+          995.31005859375
+        ],
+        [
+          835.3697204589844,
+          995.31005859375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "TIKKA BOTI MASALA 44GX72 (H)",
+      "points": [
+        [
+          575.908203125,
+          929.862060546875
+        ],
+        [
+          645.1383972167969,
+          929.862060546875
+        ],
+        [
+          645.1383972167969,
+          1026.2530517578125
+        ],
+        [
+          575.908203125,
+          1026.2530517578125
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "BOMBAY BIRYANI 140G X 72 (KK)",
+      "points": [
+        [
+          771.6637420654297,
+          375.9019088745117
+        ],
+        [
+          838.1243133544922,
+          375.9019088745117
+        ],
+        [
+          838.1243133544922,
+          501.02405548095703
+        ],
+        [
+          771.6637420654297,
+          501.02405548095703
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "TANDOORI MASALA 40GX72 (H)",
+      "points": [
+        [
+          712.0207214355469,
+          919.4692993164062
+        ],
+        [
+          770.0190734863281,
+          919.4692993164062
+        ],
+        [
+          770.0190734863281,
+          1009.217529296875
+        ],
+        [
+          712.0207214355469,
+          1009.217529296875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Achar Gosht 100GM (L)",
+      "points": [
+        [
+          958.8092041015625,
+          432.94288635253906
+        ],
+        [
+          1012.2586059570312,
+          432.94288635253906
+        ],
+        [
+          1012.2586059570312,
+          547.4903106689453
+        ],
+        [
+          958.8092041015625,
+          547.4903106689453
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "YAKHNI PULAO 70GX144 (H)",
+      "points": [
+        [
+          894.5616149902344,
+          677.5155639648438
+        ],
+        [
+          940.0556945800781,
+          677.5155639648438
+        ],
+        [
+          940.0556945800781,
+          761.2628173828125
+        ],
+        [
+          894.5616149902344,
+          761.2628173828125
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "QUICK COOK HALEEM 338GX36 (H)",
+      "points": [
+        [
+          1043.5420227050781,
+          850.6156921386719
+        ],
+        [
+          1096.8244934082031,
+          850.6156921386719
+        ],
+        [
+          1096.8244934082031,
+          961.9950866699219
+        ],
+        [
+          1043.5420227050781,
+          961.9950866699219
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Achar Gosht 50GM (L)",
+      "points": [
+        [
+          940.3485107421875,
+          679.0867614746094
+        ],
+        [
+          984.539794921875,
+          679.0867614746094
+        ],
+        [
+          984.539794921875,
+          764.2839050292969
+        ],
+        [
+          940.3485107421875,
+          764.2839050292969
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "BOMBAY BIRYANI 70G X 144 (KK)",
+      "points": [
+        [
+          686.9341848946952,
+          631.5437698364258
+        ],
+        [
+          743.1951712228202,
+          631.5437698364258
+        ],
+        [
+          743.1951712228202,
+          652.1369934082031
+        ],
+        [
+          686.9341848946952,
+          652.1369934082031
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "BOMBAY BIRYANI 70G X 144 (KK)",
+      "points": [
+        [
+          688.7358093261719,
+          582.6730346679688
+        ],
+        [
+          743.1552124023438,
+          582.6730346679688
+        ],
+        [
+          743.1552124023438,
+          605.0251770019531
+        ],
+        [
+          688.7358093261719,
+          605.0251770019531
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "BOMBAY BIRYANI 70G X 144 (KK)",
+      "points": [
+        [
+          742.9923248291016,
+          637.2581481933594
+        ],
+        [
+          801.2172698974609,
+          637.2581481933594
+        ],
+        [
+          801.2172698974609,
+          657.7987670898438
+        ],
+        [
+          742.9923248291016,
+          657.7987670898438
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "BOMBAY BIRYANI 70G X 144 (KK)",
+      "points": [
+        [
+          686.9366455078125,
+          607.6770401000977
+        ],
+        [
+          741.8780517578125,
+          607.6770401000977
+        ],
+        [
+          741.8780517578125,
+          629.3745040893555
+        ],
+        [
+          686.9366455078125,
+          629.3745040893555
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "BOMBAY BIRYANI 70G X 144 (KK)",
+      "points": [
+        [
+          690.1243591308594,
+          559.2508697509766
+        ],
+        [
+          744.8551940917969,
+          559.2508697509766
+        ],
+        [
+          744.8551940917969,
+          581.1020660400391
+        ],
+        [
+          690.1243591308594,
+          581.1020660400391
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "BOMBAY BIRYANI 70G X 144 (KK)",
+      "points": [
+        [
+          743.5624694824219,
+          615.7923126220703
+        ],
+        [
+          803.5972595214844,
+          615.7923126220703
+        ],
+        [
+          803.5972595214844,
+          636.3923645019531
+        ],
+        [
+          743.5624694824219,
+          636.3923645019531
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Achar Gosht 50GM (L)",
+      "points": [
+        [
+          985.3304290771484,
+          683.6758422851562
+        ],
+        [
+          1024.893569946289,
+          683.6758422851562
+        ],
+        [
+          1024.893569946289,
+          767.3780822753906
+        ],
+        [
+          985.3304290771484,
+          767.3780822753906
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "QUICK COOK HALEEM 338GX36 (H)",
+      "points": [
+        [
+          1055.8335876464844,
+          456.5528106689453
+        ],
+        [
+          1103.7741088867188,
+          456.5528106689453
+        ],
+        [
+          1103.7741088867188,
+          571.6014862060547
+        ],
+        [
+          1055.8335876464844,
+          571.6014862060547
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "BOMBAY BIRYANI 70G X 144 (KK)",
+      "points": [
+        [
+          629.1714477539062,
+          550.0836944580078
+        ],
+        [
+          689.1670227050781,
+          550.0836944580078
+        ],
+        [
+          689.1670227050781,
+          573.5886383056641
+        ],
+        [
+          629.1714477539062,
+          573.5886383056641
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "MURGHI MASALA 86GX72 (H)",
+      "points": [
+        [
+          1012.1951219512196,
+          448.7804878048781
+        ],
+        [
+          1052.8455284552845,
+          448.7804878048781
+        ],
+        [
+          1052.8455284552845,
+          554.4715447154472
+        ],
+        [
+          1012.1951219512196,
+          554.4715447154472
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "BOMBAY BIRYANI 70G X 144 (KK)",
+      "points": [
+        [
+          631.3931519835146,
+          572.8828248777589
+        ],
+        [
+          685.8125550596865,
+          572.8828248777589
+        ],
+        [
+          685.8125550596865,
+          595.2349672117433
+        ],
+        [
+          631.3931519835146,
+          595.2349672117433
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "BOMBAY BIRYANI 70G X 144 (KK)",
+      "points": [
+        [
+          629.5939881651551,
+          600.6840331070907
+        ],
+        [
+          684.5353944151551,
+          600.6840331070907
+        ],
+        [
+          684.5353944151551,
+          622.3814970963485
+        ],
+        [
+          629.5939881651551,
+          622.3814970963485
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "BOMBAY BIRYANI 70G X 144 (KK)",
+      "points": [
+        [
+          627.4936254541358,
+          623.1521614448175
+        ],
+        [
+          683.7546117822608,
+          623.1521614448175
+        ],
+        [
+          683.7546117822608,
+          643.7453850165948
+        ],
+        [
+          627.4936254541358,
+          643.7453850165948
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Achar Gosht 50GM (L)",
+      "points": [
+        [
+          880.9079513016281,
+          644.1217265095745
+        ],
+        [
+          920.9790209790211,
+          644.1217265095745
+        ],
+        [
+          920.9790209790211,
+          659.4405594405596
+        ],
+        [
+          880.9079513016281,
+          659.4405594405596
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Achar Gosht 50GM (L)",
+      "points": [
+        [
+          880.2086506023275,
+          659.50634189419
+        ],
+        [
+          920.2797202797204,
+          659.50634189419
+        ],
+        [
+          920.2797202797204,
+          674.825174825175
+        ],
+        [
+          880.2086506023275,
+          674.825174825175
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Achar Gosht 50GM (L)",
+      "points": [
+        [
+          922.1666925603696,
+          665.7342657342658
+        ],
+        [
+          959.4405594405595,
+          665.7342657342658
+        ],
+        [
+          959.4405594405595,
+          676.9230769230771
+        ],
+        [
+          922.1666925603696,
+          676.9230769230771
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Achar Gosht 50GM (L)",
+      "points": [
+        [
+          922.1666925603696,
+          646.8531468531469
+        ],
+        [
+          960.1398601398602,
+          646.8531468531469
+        ],
+        [
+          960.1398601398602,
+          662.9370629370629
+        ],
+        [
+          922.1666925603696,
+          662.9370629370629
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "MURGHI MASALA 43GX144 (H)",
+      "points": [
+        [
+          1027.1844660194174,
+          694.1747572815534
+        ],
+        [
+          1056.3106796116504,
+          694.1747572815534
+        ],
+        [
+          1056.3106796116504,
+          768.9320388349514
+        ],
+        [
+          1027.1844660194174,
+          768.9320388349514
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "MURGHI MASALA 43GX144 (H)",
+      "points": [
+        [
+          466.0194174757281,
+          623.3009708737864
+        ],
+        [
+          540.7766990291262,
+          623.3009708737864
+        ],
+        [
+          540.7766990291262,
+          739.8058252427185
+        ],
+        [
+          466.0194174757281,
+          739.8058252427185
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "KOFTA MASALA 43GX144 (H)",
+      "points": [
+        [
+          966.1764705882352,
+          900.735294117647
+        ],
+        [
+          1006.6176470588234,
+          900.735294117647
+        ],
+        [
+          1006.6176470588234,
+          978.6764705882352
+        ],
+        [
+          966.1764705882352,
+          978.6764705882352
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "MURGHI MASALA 43GX144 (H)",
+      "points": [
+        [
+          1009.5588235294117,
+          900.735294117647
+        ],
+        [
+          1039.705882352941,
+          900.735294117647
+        ],
+        [
+          1039.705882352941,
+          967.6470588235294
+        ],
+        [
+          1009.5588235294117,
+          967.6470588235294
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "FISH MASALA 80GX72 (H)",
+      "points": [
+        [
+          773.5294117647059,
+          887.4999999999999
+        ],
+        [
+          833.8235294117646,
+          887.4999999999999
+        ],
+        [
+          833.8235294117646,
+          1007.3529411764705
+        ],
+        [
+          773.5294117647059,
+          1007.3529411764705
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "CHAPLI KABAB 72GX72 (H)",
+      "points": [
+        [
+          887.4999999999999,
+          903.6764705882352
+        ],
+        [
+          929.4117647058823,
+          903.6764705882352
+        ],
+        [
+          929.4117647058823,
+          980.8823529411764
+        ],
+        [
+          887.4999999999999,
+          980.8823529411764
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "CHAPLI KABAB 72GX72 (H)",
+      "points": [
+        [
+          929.4117647058823,
+          901.470588235294
+        ],
+        [
+          966.1764705882352,
+          901.470588235294
+        ],
+        [
+          966.1764705882352,
+          986.7647058823528
+        ],
+        [
+          929.4117647058823,
+          986.7647058823528
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "questionImage_1863_92788_7_-1_9_-1.jpg",
+  "imageData": null,
+  "imageHeight": 1600,
+  "imageWidth": 1600
+}
